@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Forecast</string>
+    <string name="copyright">Copyright &#169; 2024, ACEME Inc. All rights reserved.</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="humidity">Humidity</string>
+    <string name="temp_f">%.0fF</string>
+    <string name="temp_c">%.0fº</string>
+
+    <string name="ok">OK</string>
+    <string name="done">Done</string>
+    <string name="error">Error</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_api_key_alert">No API key found. Can\'t retrieve data.</string>
+
+    <string name="title_today">Today</string>
+    <string name="title_forecasts">Forecasts</string>
+    <string name="title_info">Info</string>
+    <string name="title_settings">Settings</string>
+    <string name="read_from_file">Read from File</string>
+
+</resources>

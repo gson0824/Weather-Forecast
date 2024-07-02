@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Prévision</string>
+    <string name="copyright">Copyright &#169; 2024, ACEME Inc. All rights reserved.</string>
+
+    <string name="today">aujourd\'hui</string>
+    <string name="tomorrow">demain</string>
+    <string name="humidity">humidité</string>
+    <string name="temp_f">%.0fF</string>
+    <string name="temp_c">%.0fº</string>
+
+    <string name="ok">D\'accord</string>
+    <string name="done">Fait</string>
+    <string name="error">Erreur</string>
+    <string name="refresh">Rafraîchir</string>
+    <string name="no_api_key_alert">Aucune clé API trouvée. Impossible de récupérer les données.</string>
+
+    <string name="title_today">Aujourd\'hui</string>
+    <string name="title_forecasts">Prévisions</string>
+    <string name="title_info">Info</string>
+    <string name="title_settings">Paramètres</string>
+    <string name="read_from_file">Lire à partir d\'un fichier</string>
+
+</resources>
